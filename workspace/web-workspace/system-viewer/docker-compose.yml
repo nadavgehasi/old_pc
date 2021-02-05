@@ -1,0 +1,58 @@
+version: '3.3'
+
+services:
+  frontend:
+    container_name: frontend
+    build: frontend
+    ports:
+      - 80:80
+
+  backend:
+    container_name: backend
+    build: backend
+    ports:
+      - 8000:8000
+    volumes:
+      - backend-storage:/myapp/database/
+
+  graphite:
+    container_name: graphite
+    image: graphiteapp/graphite-statsd
+    restart: always
+    ports:
+      - 5000:80
+    #      - 2003-2004:2003-2004
+    #      - 2023-2024:2023-2024
+    #      - 8125:8125/udp
+    #      - 8126:8126
+    volumes:
+      - graphite-storage:/opt/graphite/storage
+    environment:
+      - COLLECTD=1
+      - GRAPHITE_DEBUG=0
+      - REDIS_TAGDB=0
+
+  grafana:
+    container_name: grafana
+    image: grafana/grafana
+    restart: always
+    ports:
+      - 3000:3000
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    links:
+      - graphite
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+
+  data-sender:
+    container_name: data-sender
+    build: data-sender
+    stdin_open: true
+    tty: true
+
+
+volumes:
+  backend-storage:
+  grafana-storage:
+  graphite-storage:

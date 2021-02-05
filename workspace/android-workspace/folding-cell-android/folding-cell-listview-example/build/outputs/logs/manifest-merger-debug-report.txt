@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [:folding-cell] /data/workspace/android-workspace/folding-cell-android/folding-cell/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7f43ac05500ab51800743574ab2894e4/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /data/gradle/caches/transforms-2/files-2.1/80532c624ea810c15bba7fd7abe6dc7c/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /data/gradle/caches/transforms-2/files-2.1/2cdaf2293ee53bf739a050deba88c151/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d78012b6b4297147cae352cffd03fcb2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/gradle/caches/transforms-2/files-2.1/5fa9edd2eaa546a9bcf428dddf8e091a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d1d59af52a148284d2f3ad5d53b97956/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8da5262958ec75ab92968e757c7fe0a3/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/gradle/caches/transforms-2/files-2.1/82647b3591182e954ff5462ea8eb90a3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/cf7c47708f4721d8431b8462389e5b76/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8bddb6c22ce55391aa6020a9e874c2e2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/gradle/caches/transforms-2/files-2.1/467cd8216a37830e03497b032688d74d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/4b2b7f31071d5f873df56261cf05cb22/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /data/gradle/caches/transforms-2/files-2.1/d349ea34a9d27ba33fc079529aba1844/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /data/gradle/caches/transforms-2/files-2.1/f52a3ad0ea863339113f4f092ec538b5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /data/gradle/caches/transforms-2/files-2.1/50937919f60cfa15be69efafba33f70b/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d8a9d48c3576bfe4a3a96276702a26bf/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/gradle/caches/transforms-2/files-2.1/50f363b343b8b2a0ffecdfab0cfdf32a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /data/gradle/caches/transforms-2/files-2.1/adf52299805734dde433b2298f1b071e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /data/gradle/caches/transforms-2/files-2.1/9392d7828db18f8d58b2d1faef0b1b0c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/4b2b7f31071d5f873df56261cf05cb22/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/4b2b7f31071d5f873df56261cf05cb22/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:10:9-40
+activity#com.ramotion.foldingcell.examples.listview.MainActivity
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:11:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+MERGED from [:folding-cell] /data/workspace/android-workspace/folding-cell-android/folding-cell/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:folding-cell] /data/workspace/android-workspace/folding-cell-android/folding-cell/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7f43ac05500ab51800743574ab2894e4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7f43ac05500ab51800743574ab2894e4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /data/gradle/caches/transforms-2/files-2.1/80532c624ea810c15bba7fd7abe6dc7c/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /data/gradle/caches/transforms-2/files-2.1/80532c624ea810c15bba7fd7abe6dc7c/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /data/gradle/caches/transforms-2/files-2.1/2cdaf2293ee53bf739a050deba88c151/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /data/gradle/caches/transforms-2/files-2.1/2cdaf2293ee53bf739a050deba88c151/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d78012b6b4297147cae352cffd03fcb2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d78012b6b4297147cae352cffd03fcb2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/gradle/caches/transforms-2/files-2.1/5fa9edd2eaa546a9bcf428dddf8e091a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/gradle/caches/transforms-2/files-2.1/5fa9edd2eaa546a9bcf428dddf8e091a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d1d59af52a148284d2f3ad5d53b97956/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d1d59af52a148284d2f3ad5d53b97956/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8da5262958ec75ab92968e757c7fe0a3/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8da5262958ec75ab92968e757c7fe0a3/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/gradle/caches/transforms-2/files-2.1/82647b3591182e954ff5462ea8eb90a3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/gradle/caches/transforms-2/files-2.1/82647b3591182e954ff5462ea8eb90a3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/cf7c47708f4721d8431b8462389e5b76/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/cf7c47708f4721d8431b8462389e5b76/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8bddb6c22ce55391aa6020a9e874c2e2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /data/gradle/caches/transforms-2/files-2.1/8bddb6c22ce55391aa6020a9e874c2e2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /data/gradle/caches/transforms-2/files-2.1/7874def463f7aae68d89da5f6373535a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/gradle/caches/transforms-2/files-2.1/467cd8216a37830e03497b032688d74d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/gradle/caches/transforms-2/files-2.1/467cd8216a37830e03497b032688d74d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/4b2b7f31071d5f873df56261cf05cb22/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /data/gradle/caches/transforms-2/files-2.1/4b2b7f31071d5f873df56261cf05cb22/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /data/gradle/caches/transforms-2/files-2.1/d349ea34a9d27ba33fc079529aba1844/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /data/gradle/caches/transforms-2/files-2.1/d349ea34a9d27ba33fc079529aba1844/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /data/gradle/caches/transforms-2/files-2.1/f52a3ad0ea863339113f4f092ec538b5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /data/gradle/caches/transforms-2/files-2.1/f52a3ad0ea863339113f4f092ec538b5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /data/gradle/caches/transforms-2/files-2.1/50937919f60cfa15be69efafba33f70b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /data/gradle/caches/transforms-2/files-2.1/50937919f60cfa15be69efafba33f70b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d8a9d48c3576bfe4a3a96276702a26bf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/gradle/caches/transforms-2/files-2.1/d8a9d48c3576bfe4a3a96276702a26bf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/gradle/caches/transforms-2/files-2.1/50f363b343b8b2a0ffecdfab0cfdf32a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/gradle/caches/transforms-2/files-2.1/50f363b343b8b2a0ffecdfab0cfdf32a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /data/gradle/caches/transforms-2/files-2.1/adf52299805734dde433b2298f1b071e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /data/gradle/caches/transforms-2/files-2.1/adf52299805734dde433b2298f1b071e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /data/gradle/caches/transforms-2/files-2.1/9392d7828db18f8d58b2d1faef0b1b0c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /data/gradle/caches/transforms-2/files-2.1/9392d7828db18f8d58b2d1faef0b1b0c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/folding-cell-android/folding-cell-listview-example/src/main/AndroidManifest.xml

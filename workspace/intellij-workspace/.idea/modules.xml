@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-kotlin/learn-kotlin.iml" filepath="$PROJECT_DIR$/learn-kotlin/learn-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzle/puzzle.iml" filepath="$PROJECT_DIR$/puzzle/puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random/random.iml" filepath="$PROJECT_DIR$/random/random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xor-music/xor-music.iml" filepath="$PROJECT_DIR$/xor-music/xor-music.iml" />
+    </modules>
+  </component>
+</project>

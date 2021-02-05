@@ -1,0 +1,4 @@
+{
+  "tests/integration-tests/test_redis_queues.py": true,
+  "tests/integration-tests/test_redis_queues.py::test_read_and_write": true
+}

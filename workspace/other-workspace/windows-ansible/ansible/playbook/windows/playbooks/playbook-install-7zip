@@ -1,0 +1,11 @@
+# file: playbook-install-7zip.yml
+# ---
+- name: install 7zip
+  hosts: all
+  tasks:
+          - name: Install 7zip
+            win_package:
+                    path: C:\ng\7z.exe
+                    product_id: 7-Zip
+                    arguments: /S
+                    state: present

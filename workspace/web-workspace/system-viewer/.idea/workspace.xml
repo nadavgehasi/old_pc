@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f821ec31-38c3-4067-a721-816b5d006ec9" name="Default Changelist" comment="A" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DD" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/add-system" />
+                    <option name="lastUsedInstant" value="1586266465" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/add-modal" />
+                    <option name="lastUsedInstant" value="1586266415" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1586259618" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/use-real-api" />
+                    <option name="lastUsedInstant" value="1585647085" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="django" />
+                    <option name="lastUsedInstant" value="1585564187" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnZguHk39hclaicxSwrqnKqBKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="IgnoreLang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose.dev.yml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.21026284" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/components/General/Input" />
+      <recent name="$PROJECT_DIR$/frontend/src/components/General/Card" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose">
+    <configuration name="backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="system-viewer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pages" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose" type="docker-deploy" factoryName="docker-compose.yml" server-name="DockerTCP">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="DockerTCP">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="backend" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="run frontend" type="docker-deploy" factoryName="dockerfile" server-name="DockerTCP">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="frontend/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.backend" />
+      <item itemvalue="Docker.docker-compose" />
+      <item itemvalue="Docker.run frontend" />
+      <item itemvalue="Docker.docker-compose.yml.backend: Compose Deployment" />
+      <item itemvalue="npm.format" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.format" />
+        <item itemvalue="Docker.docker-compose.yml.backend: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f821ec31-38c3-4067-a721-816b5d006ec9" name="Default Changelist" comment="" />
+      <created>1585476932087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585476932087</updated>
+      <workItem from="1585476938929" duration="565000" />
+      <workItem from="1585477535280" duration="746000" />
+      <workItem from="1585478322182" duration="426000" />
+      <workItem from="1585479076341" duration="4768000" />
+      <workItem from="1585487426968" duration="3299000" />
+      <workItem from="1585509690171" duration="3665000" />
+      <workItem from="1585560853127" duration="182000" />
+      <workItem from="1585561069954" duration="3157000" />
+      <workItem from="1585564264141" duration="29499000" />
+      <workItem from="1585733082190" duration="1248000" />
+      <workItem from="1585735133940" duration="11800000" />
+      <workItem from="1586076465960" duration="17798000" />
+      <workItem from="1586241138174" duration="8435000" />
+      <workItem from="1590141970911" duration="648000" />
+      <workItem from="1607852412915" duration="647000" />
+      <workItem from="1607857479355" duration="1591000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add virtual env to .gitignore">
+      <created>1585481235660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585481235660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add virtual env to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add virtual env to .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="260" width="800" height="684" key="#Docker" timestamp="1585480882496">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="260" width="800" height="684" key="#Docker/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585480882496" />
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure" timestamp="1585477363018">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585477363018" />
+    <state x="664" y="131" width="652" height="852" key="#backend" timestamp="1585477420550">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="664" y="131" width="652" height="852" key="#backend/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585477420550" />
+    <state x="669" y="112" width="642" height="890" key="#backend/Dockerfile" timestamp="1585560985854">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="669" y="112" width="642" height="890" key="#backend/Dockerfile/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585560985854" />
+    <state x="453" y="211" width="1084" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586265196294">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" width="1084" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586265196294" />
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586258503588">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586258503588" />
+    <state x="669" y="272" width="642" height="578" key="#docker-compose" timestamp="1585482948935">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="669" y="272" width="642" height="578" key="#docker-compose/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585482948935" />
+    <state x="521" y="130" width="938" height="854" key="CommitChangelistDialog2" timestamp="1585481235367">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="521" y="130" width="938" height="854" key="CommitChangelistDialog2/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585481235367" />
+    <state x="245" y="121" width="1480" height="879" key="DiffContextDialog" timestamp="1585570645731">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="245" y="121" width="1480" height="879" key="DiffContextDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585570645731" />
+    <state x="836" y="490" width="307" height="223" key="DockerComposeFileDialog" timestamp="1586264958157">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="836" y="490" width="307" height="223" key="DockerComposeFileDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586264958157" />
+    <state x="773" y="315" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586264941912">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="773" y="315" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586264941912" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1586241091488">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586241091488" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1586241091484">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586241091484" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1586241091483">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586241091483" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1586241091485">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586241091485" />
+    <state x="695" y="246" width="590" height="621" key="RollbackChangesDialog" timestamp="1586266377377">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="695" y="246" width="590" height="621" key="RollbackChangesDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586266377377" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1586101214150">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1586101214150" />
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585481903403">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585481903403" />
+    <state x="640" y="292" width="710" height="522" key="find.popup" timestamp="1585749403010">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="640" y="292" width="710" height="522" key="find.popup/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585749403010" />
+    <state x="658" y="259" key="search.everywhere.popup" timestamp="1585655811581">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" key="search.everywhere.popup/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585655811581" />
+    <state x="720" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585739071587">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="720" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.1850.1053/1920.152.1366.768@70.27.1850.1053" timestamp="1585739071587" />
+  </component>
+</project>

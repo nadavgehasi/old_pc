@@ -1,0 +1,16 @@
+.ant-modal-content {
+  direction: rtl;
+  position: initial;
+}
+
+.ant-modal-footer {
+  text-align: left;
+}
+
+.ant-modal-close {
+  left: 0;
+}
+
+.ant-modal-close {
+  left: 0;
+}

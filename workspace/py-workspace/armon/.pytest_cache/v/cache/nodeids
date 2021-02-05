@@ -1,0 +1,5 @@
+[
+  "tests/integration-tests/test_redis_queues.py::test_read_and_write",
+  "tests/test_my_module.py::test_get_page_title",
+  "tests/unit-tests/test_armon/utils/test_math.py::test_sum"
+]

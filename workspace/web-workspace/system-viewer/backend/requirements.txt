@@ -1,0 +1,2 @@
+djangorestframework==3.11.0
+drf-url-filters==0.5.1

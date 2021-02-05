@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BlackConnectSettings" lineLength="120" triggerOnEachSave="true" targetSpecificVersions="true" pythonTargets="py3.8" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fd6b834-cc6b-4d45-a88d-7337e0f11858" name="Default Changelist" comment="Fix tox problems" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="60d4ceb1-b3c4-4f4f-9ebc-97dbd5523c0e" />
+  <component name="ProjectId" id="1gcyMyGC1J33IJ1hHXfKgq9LbqE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../armon" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/toolip" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests/toolip" />
+      <recent name="$PROJECT_DIR$/toolip/core/logging" />
+      <recent name="$PROJECT_DIR$/toolip/core/encoding" />
+      <recent name="$PROJECT_DIR$/toolip/core/component" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for tests.test_toolip.core.test_toolip_component.test_do_nothing_component">
+    <configuration name="tox" type="Tox" factoryName="Tox" temporary="true">
+      <module name="toolip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_toolip.core.test_toolip_component.test_do_nothing_component" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="toolip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/test_toolip/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_toolip.core.test_toolip_component.test_do_nothing_component&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.toolip.core.test_toolip_component.test_do_nothing_component" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="toolip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/toolip/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.toolip.core.test_toolip_component.test_do_nothing_component&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.toolip.core.test_toolip_component.test_do_nothing_component" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="toolip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/toolip/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.toolip.core.test_toolip_component.test_do_nothing_component&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.toolip.core.toolip_component.test_do_nothing_component" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="toolip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/toolip/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.toolip.core.toolip_component.test_do_nothing_component&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="tox.tox" />
+        <item itemvalue="Python tests.pytest for tests.test_toolip.core.test_toolip_component.test_do_nothing_component" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd6b834-cc6b-4d45-a88d-7337e0f11858" name="Default Changelist" comment="" />
+      <created>1598428131027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598428131027</updated>
+      <workItem from="1598428132148" duration="3644000" />
+      <workItem from="1598515649518" duration="1175000" />
+      <workItem from="1598535232022" duration="3920000" />
+      <workItem from="1598863776499" duration="847000" />
+      <workItem from="1598864663203" duration="715000" />
+      <workItem from="1599204572109" duration="21064000" />
+      <workItem from="1601298584122" duration="27000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add setup.py">
+      <created>1598516767614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598516767614</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create toolip packet class">
+      <created>1599205876080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599205876080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create ComponentResult class">
+      <created>1599205893467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599205893467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix tox problems">
+      <created>1599295012597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599295012597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Add setup.py" />
+    <MESSAGE value="Create toolip packet class" />
+    <MESSAGE value="Create ComponentResult class" />
+    <MESSAGE value="Fix tox problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix tox problems" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="41" width="800" height="719" key="#Plugins" timestamp="1598864718648">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="313" y="41" width="800" height="719" key="#Plugins/70.27.1296.741@70.27.1296.741" timestamp="1598864718648" />
+    <state x="176" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599296139558">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="176" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1599296139558" />
+    <state x="389" y="199" width="647" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599211116938">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="389" y="199" width="647" height="403" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1599211116938" />
+    <state x="495" y="111" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598515851078">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="495" y="111" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/70.27.1296.741@70.27.1296.741" timestamp="1598515851078" />
+    <state x="526" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599206214000">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="526" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1296.741@70.27.1296.741" timestamp="1599206214000" />
+    <state x="401" y="134" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598864093768">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="401" y="134" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1598864093768" />
+    <state x="406" y="132" width="614" height="538" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599206118544">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="406" y="132" width="614" height="538" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.1296.741@70.27.1296.741" timestamp="1599206118544" />
+    <state x="472" y="229" width="481" height="344" key="#com.intellij.tools.ToolEditorDialog" timestamp="1599296131876">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="472" y="229" width="481" height="344" key="#com.intellij.tools.ToolEditorDialog/70.27.1296.741@70.27.1296.741" timestamp="1599296131876" />
+    <state x="476" y="142" width="814" height="511" key="#xdebugger.evaluate" timestamp="1599226382865">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="476" y="142" width="814" height="511" key="#xdebugger.evaluate/70.27.1296.741@70.27.1296.741" timestamp="1599226382865" />
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1599297145092">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1599297145092" />
+    <state x="317" y="177" width="791" height="452" key="EditFileWatcherDialog" timestamp="1598515851815">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="317" y="177" width="791" height="452" key="EditFileWatcherDialog/70.27.1296.741@70.27.1296.741" timestamp="1598515851815" />
+    <state x="558" y="156" width="309" height="489" key="EnvironmentVariablesDialog" timestamp="1599213404262">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="558" y="156" width="309" height="489" key="EnvironmentVariablesDialog/70.27.1296.741@70.27.1296.741" timestamp="1599213404262" />
+    <state x="501" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601298608819">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="157" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1601298608819" />
+    <state width="1250" height="122" key="GridCell.Tab.0.bottom" timestamp="1599297021992">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="122" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1599297021992" />
+    <state width="1250" height="122" key="GridCell.Tab.0.center" timestamp="1599297021991">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="122" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1599297021991" />
+    <state width="1250" height="122" key="GridCell.Tab.0.left" timestamp="1599297021990">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="122" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1599297021990" />
+    <state width="1250" height="122" key="GridCell.Tab.0.right" timestamp="1599297021991">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="122" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1599297021991" />
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom" timestamp="1599294731131">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1599294731131" />
+    <state width="1250" height="215" key="GridCell.Tab.1.center" timestamp="1599294731131">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1599294731131" />
+    <state width="1250" height="215" key="GridCell.Tab.1.left" timestamp="1599294731131">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1599294731131" />
+    <state width="1250" height="215" key="GridCell.Tab.1.right" timestamp="1599294731131">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1599294731131" />
+    <state x="499" y="81" width="427" height="640" key="RollbackChangesDialog" timestamp="1598516751916">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="499" y="81" width="427" height="640" key="RollbackChangesDialog/70.27.1296.741@70.27.1296.741" timestamp="1598516751916" />
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1599298318902">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1599298318902" />
+    <state x="499" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599215628283">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="499" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1296.741@70.27.1296.741" timestamp="1599215628283" />
+    <state x="599" y="177" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1599296133487">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="599" y="177" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/70.27.1296.741@70.27.1296.741" timestamp="1599296133487" />
+    <state x="409" y="136" width="618" height="522" key="find.popup" timestamp="1599297294679">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="409" y="136" width="618" height="522" key="find.popup/70.27.1296.741@70.27.1296.741" timestamp="1599297294679" />
+    <state x="382" y="40" width="672" height="676" key="search.everywhere.popup" timestamp="1598537066572">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="382" y="40" width="672" height="676" key="search.everywhere.popup/70.27.1296.741@70.27.1296.741" timestamp="1598537066572" />
+    <state x="443" y="289" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599224658655">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="443" y="289" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.1296.741@70.27.1296.741" timestamp="1599224658655" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/toolip$pytest_for_test_toolip_component_test_do_nothing_component.coverage" NAME="pytest for test_toolip_component.test_do_nothing_component Coverage Results" MODIFIED="1599294731087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/test_toolip/core" />
+    <SUITE FILE_PATH="coverage/toolip$setup.coverage" NAME="setup Coverage Results" MODIFIED="1599212077978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/toolip$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1599295283200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/toolip$toolip_tests.coverage" NAME="toolip-tests Coverage Results" MODIFIED="1599295922907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/toolip$pytest_for_toolip_component_test_do_nothing_component.coverage" NAME="pytest for toolip_component.test_do_nothing_component Coverage Results" MODIFIED="1599215876571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/toolip/core" />
+    <SUITE FILE_PATH="coverage/toolip$tox.coverage" NAME="tox Coverage Results" MODIFIED="1599295951018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/toolip$pytest_in_toolip_component_py.coverage" NAME="pytest in test_toolip_component.py Coverage Results" MODIFIED="1599226448572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/test_toolip/core" />
+  </component>
+</project>

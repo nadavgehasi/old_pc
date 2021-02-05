@@ -1,0 +1,30 @@
+.ant-table thead > tr > th {
+  text-align: right;
+  background-color: #36304a;
+  color: white;
+}
+
+.ant-table table {
+  border: 3px solid #36304a;
+  contain: content;
+  border-radius: 10px;
+  text-align: right;
+}
+
+.ant-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.ant-table-container table > thead > tr:first-child th:last-child {
+  border-top-right-radius: 0;
+}
+
+.ant-table-container table > thead > tr:first-child th:first-child {
+  border-top-left-radius: 0;
+}
+
+.ant-table-pagination.ant-pagination {
+  direction: ltr;
+  float: none;
+  text-align: center;
+}

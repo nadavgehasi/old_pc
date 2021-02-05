@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/f634c7c13c2586c59ae1c40f527823ff/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/023659c8e907aded327ec536ae085a7e/jetified-core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nadav/.gradle/caches/transforms-2/files-2.1/5b13dcfe8d1bace6ae73eb81ae6b4d3e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/a78187af4d05cd1a17103d377e64ac45/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/1fa9e7907f908ec19dab60b615626e1a/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e3615b22d96a7b5f3ffd68d891a82390/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e9c40023e2992482e69b58dd1ec869a8/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/700a44e67fe447f0d40ea292c422cf77/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/c94c2dad4eec1cbdcb14886992dc3847/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4b5d515f624208e0adaba6241a2fbdcf/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/efec10934eb6017a5f4767287e2e6dc8/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4203272cd44d2a9f85da1157039b33db/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e5cb45e5adb9b0897ea7528102761a25/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/86315ef1920b1c44296c9e9eec01f4b7/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/67c3a5101764655b7765b0221c3ad268/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/52d3b49f725571623e9f6222c962f202/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/aa40a3a78aa0f39480d10c445dbefdb8/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/667937a9853872bc05ee105e8582e2b4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8f9207a557f52fd91bf713d2593f4f3f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f68158e7fe35bfc3142dbec26c66cf09/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/7534612305f06af77ad410914425f683/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nadav/.gradle/caches/transforms-2/files-2.1/f17b2a9258fc6d56843f4f307c00a3ff/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/a4c2cbb7f4401e75616052cf4981d878/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/3930d3a0a10b4d399b4dc14ad8bf9533/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/e1ca9d7a98ec3fb445d47a01d63f8acb/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/5d256e548fd2511b5b51c4460cbda3bf/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/29a285387433e235a001dec0cba2573e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9598a13ff61ec9371dc666a5e4043dbe/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9965801640dec9a5571d92deb3e4d6dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/eb941e5ab7e223f743535bd6cb4ca05e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9ffbf848294f02e71367a68ea515ee8f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/54eb096f3404ecf45a22bb8359f25f3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/6e0043c54bc591f5ed920242a94b9a49/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/18ae3ac53247ba4be8c671193f3e76e2/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f9e98cefae9f077f781b830cdbc8eeb8/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/d520f4152cf06010527822908a9662a1/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8856bc132c0c494d184346d7fd70bb79/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/290c5a38afb049adf02385dadb27a443/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/ff09431035612e0ebb16e9629e227e19/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/73da3ef84452165fc111c805742b4698/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/b7f70c3370901431a8b27f936ee74766/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nadav/.gradle/caches/transforms-2/files-2.1/5b13dcfe8d1bace6ae73eb81ae6b4d3e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nadav/.gradle/caches/transforms-2/files-2.1/5b13dcfe8d1bace6ae73eb81ae6b4d3e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/a78187af4d05cd1a17103d377e64ac45/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/a78187af4d05cd1a17103d377e64ac45/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/d520f4152cf06010527822908a9662a1/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/d520f4152cf06010527822908a9662a1/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.learnjetpack.MainActivity
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/f634c7c13c2586c59ae1c40f527823ff/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/f634c7c13c2586c59ae1c40f527823ff/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/023659c8e907aded327ec536ae085a7e/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/023659c8e907aded327ec536ae085a7e/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nadav/.gradle/caches/transforms-2/files-2.1/5b13dcfe8d1bace6ae73eb81ae6b4d3e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nadav/.gradle/caches/transforms-2/files-2.1/5b13dcfe8d1bace6ae73eb81ae6b4d3e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/a78187af4d05cd1a17103d377e64ac45/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/a78187af4d05cd1a17103d377e64ac45/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/1fa9e7907f908ec19dab60b615626e1a/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/1fa9e7907f908ec19dab60b615626e1a/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e3615b22d96a7b5f3ffd68d891a82390/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e3615b22d96a7b5f3ffd68d891a82390/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e9c40023e2992482e69b58dd1ec869a8/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e9c40023e2992482e69b58dd1ec869a8/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/700a44e67fe447f0d40ea292c422cf77/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/700a44e67fe447f0d40ea292c422cf77/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/c94c2dad4eec1cbdcb14886992dc3847/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/c94c2dad4eec1cbdcb14886992dc3847/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4b5d515f624208e0adaba6241a2fbdcf/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4b5d515f624208e0adaba6241a2fbdcf/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/efec10934eb6017a5f4767287e2e6dc8/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/efec10934eb6017a5f4767287e2e6dc8/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4203272cd44d2a9f85da1157039b33db/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/4203272cd44d2a9f85da1157039b33db/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e5cb45e5adb9b0897ea7528102761a25/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/e5cb45e5adb9b0897ea7528102761a25/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/86315ef1920b1c44296c9e9eec01f4b7/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/86315ef1920b1c44296c9e9eec01f4b7/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/67c3a5101764655b7765b0221c3ad268/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/67c3a5101764655b7765b0221c3ad268/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/52d3b49f725571623e9f6222c962f202/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/52d3b49f725571623e9f6222c962f202/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/aa40a3a78aa0f39480d10c445dbefdb8/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/aa40a3a78aa0f39480d10c445dbefdb8/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/667937a9853872bc05ee105e8582e2b4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/667937a9853872bc05ee105e8582e2b4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8f9207a557f52fd91bf713d2593f4f3f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8f9207a557f52fd91bf713d2593f4f3f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f68158e7fe35bfc3142dbec26c66cf09/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f68158e7fe35bfc3142dbec26c66cf09/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/7534612305f06af77ad410914425f683/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/7534612305f06af77ad410914425f683/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nadav/.gradle/caches/transforms-2/files-2.1/f17b2a9258fc6d56843f4f307c00a3ff/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nadav/.gradle/caches/transforms-2/files-2.1/f17b2a9258fc6d56843f4f307c00a3ff/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/a4c2cbb7f4401e75616052cf4981d878/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/a4c2cbb7f4401e75616052cf4981d878/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/3930d3a0a10b4d399b4dc14ad8bf9533/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/3930d3a0a10b4d399b4dc14ad8bf9533/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/e1ca9d7a98ec3fb445d47a01d63f8acb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/e1ca9d7a98ec3fb445d47a01d63f8acb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/5d256e548fd2511b5b51c4460cbda3bf/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/5d256e548fd2511b5b51c4460cbda3bf/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/29a285387433e235a001dec0cba2573e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/29a285387433e235a001dec0cba2573e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9598a13ff61ec9371dc666a5e4043dbe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9598a13ff61ec9371dc666a5e4043dbe/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9965801640dec9a5571d92deb3e4d6dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9965801640dec9a5571d92deb3e4d6dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/eb941e5ab7e223f743535bd6cb4ca05e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/eb941e5ab7e223f743535bd6cb4ca05e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/nadav/.gradle/caches/transforms-2/files-2.1/a561d678a106a752748852d34fd356db/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9ffbf848294f02e71367a68ea515ee8f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/9ffbf848294f02e71367a68ea515ee8f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/54eb096f3404ecf45a22bb8359f25f3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/54eb096f3404ecf45a22bb8359f25f3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/6e0043c54bc591f5ed920242a94b9a49/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/6e0043c54bc591f5ed920242a94b9a49/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/18ae3ac53247ba4be8c671193f3e76e2/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/18ae3ac53247ba4be8c671193f3e76e2/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f9e98cefae9f077f781b830cdbc8eeb8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/f9e98cefae9f077f781b830cdbc8eeb8/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/d520f4152cf06010527822908a9662a1/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/d520f4152cf06010527822908a9662a1/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8856bc132c0c494d184346d7fd70bb79/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/8856bc132c0c494d184346d7fd70bb79/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/290c5a38afb049adf02385dadb27a443/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/290c5a38afb049adf02385dadb27a443/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/ff09431035612e0ebb16e9629e227e19/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/ff09431035612e0ebb16e9629e227e19/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/73da3ef84452165fc111c805742b4698/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nadav/.gradle/caches/transforms-2/files-2.1/73da3ef84452165fc111c805742b4698/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/b7f70c3370901431a8b27f936ee74766/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /home/nadav/.gradle/caches/transforms-2/files-2.1/b7f70c3370901431a8b27f936ee74766/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		ADDED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /data/workspace/android-workspace/learnJetpack/app/src/main/AndroidManifest.xml

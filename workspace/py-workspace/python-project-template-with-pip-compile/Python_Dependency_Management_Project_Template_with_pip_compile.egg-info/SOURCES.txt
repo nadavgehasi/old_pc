@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+requirements.in
+requirements.testing.in
+requirements.txt
+setup.py
+Python_Dependency_Management_Project_Template_with_pip_compile.egg-info/PKG-INFO
+Python_Dependency_Management_Project_Template_with_pip_compile.egg-info/SOURCES.txt
+Python_Dependency_Management_Project_Template_with_pip_compile.egg-info/dependency_links.txt
+Python_Dependency_Management_Project_Template_with_pip_compile.egg-info/requires.txt
+Python_Dependency_Management_Project_Template_with_pip_compile.egg-info/top_level.txt
+my_project/__init__.py
+my_project/my_module.py

@@ -1,0 +1,9 @@
+# file: playbook-install-firefox.yml
+# ---
+- name: test chocolatey with ansible
+  hosts: all
+  tasks:
+          - name: Install notepadplusplus
+            win_chocolatey:
+                    name: notepadplusplus
+                    state: present

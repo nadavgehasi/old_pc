@@ -1,0 +1,25 @@
+FROM python:3.8
+
+RUN mkdir /app
+WORKDIR /app
+
+COPY Makefile /app
+
+COPY requirements.dev.in /app
+RUN make prep-env
+
+COPY requirements.txt /app
+COPY requirements.in /app
+COPY requirements.testing.in /app
+
+RUN pip install -r requirements.txt
+
+COPY MANIFEST.in /app
+COPY setup.py /app
+
+COPY armon /app/armon
+COPY tests /app/tests
+
+RUN pip install -e .
+
+CMD ["pytest", "tests"]

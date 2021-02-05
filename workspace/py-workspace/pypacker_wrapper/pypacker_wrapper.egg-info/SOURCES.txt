@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+pypacker_wrapper/wrapper.py
+pypacker_wrapper.egg-info/PKG-INFO
+pypacker_wrapper.egg-info/SOURCES.txt
+pypacker_wrapper.egg-info/dependency_links.txt
+pypacker_wrapper.egg-info/requires.txt
+pypacker_wrapper.egg-info/top_level.txt
+pypacker_wrapper/parsers/my_parser.py
+pypacker_wrapper/utils/cap.py

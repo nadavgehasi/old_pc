@@ -1,0 +1,19 @@
+version: '3.3'
+
+services:
+  armon-tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.testing
+    expose:
+      - "6379"
+    tty: true
+    depends_on:
+      - redis
+
+  redis:
+    container_name: redis
+    image: redis
+    restart: always
+    expose:
+      - "6379"

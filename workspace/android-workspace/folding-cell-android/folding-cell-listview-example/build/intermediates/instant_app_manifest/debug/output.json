@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":2,"versionName":"1.0.1","enabled":true,"outputFile":"folding-cell-listview-example-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.ramotion.foldingcell.examples.listview","split":"","minSdkVersion":"14"}}]

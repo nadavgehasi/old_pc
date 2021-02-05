@@ -1,0 +1,3 @@
+[
+  "tests/test_toolip/core/test_toolip_component.py::test_do_nothing_component"
+]

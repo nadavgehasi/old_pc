@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/baseline_add_24</item>
+    </array>
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+    </array>
+</resources>

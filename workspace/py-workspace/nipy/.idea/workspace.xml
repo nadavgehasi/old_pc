@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d1d313-dd8e-4836-8509-90d0535123da" name="Default Changelist" comment="Fix redis_queue bags">
+      <change afterPath="$PROJECT_DIR$/nipy/processors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nipy/processors/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nipy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nipy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nipy/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nipy/core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nipy/core/processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/nipy/core/processors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nipy/db/mongo_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/nipy/db/mongo_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cGDmI7CaSUTuPht4uJbC0ZdGdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/toolip" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../test/toolip/code/state" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nipy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d1d313-dd8e-4836-8509-90d0535123da" name="Default Changelist" comment="" />
+      <created>1590146193704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590146193704</updated>
+      <workItem from="1590146195684" duration="319000" />
+      <workItem from="1590146545994" duration="1685000" />
+      <workItem from="1590159263506" duration="5101000" />
+      <workItem from="1590224560266" duration="675000" />
+      <workItem from="1590229493352" duration="5213000" />
+      <workItem from="1590831657430" duration="650000" />
+      <workItem from="1590832345584" duration="1889000" />
+      <workItem from="1594744084379" duration="1781000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix redis_queue bags">
+      <created>1590165087125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590165087125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix redis_queue bags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix redis_queue bags" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="310" width="491" height="185" key="#Custom_Plugin_Repositories" timestamp="1590832837091">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="315" y="310" width="491" height="185" key="#Custom_Plugin_Repositories/70.27.1296.741@70.27.1296.741" timestamp="1590832837091" />
+    <state x="472" y="116" width="481" height="573" key="#HTTP_Proxy" timestamp="1590832688813">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="472" y="116" width="481" height="573" key="#HTTP_Proxy/70.27.1296.741@70.27.1296.741" timestamp="1590832688813" />
+    <state x="735" y="257" key="#xdebugger.evaluate" timestamp="1590164862389">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="735" y="257" key="#xdebugger.evaluate/70.27.1296.741@70.27.1296.741" timestamp="1590164862389" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594745858912">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1594745858912" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1590165081085">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1590165081085" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1590165081084">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1590165081084" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1590165081083">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1590165081083" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1590165081084">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1590165081084" />
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom" timestamp="1590164978574">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1590164978574" />
+    <state width="1250" height="215" key="GridCell.Tab.1.center" timestamp="1590164978573">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1590164978573" />
+    <state width="1250" height="215" key="GridCell.Tab.1.left" timestamp="1590164978573">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1590164978573" />
+    <state width="1250" height="215" key="GridCell.Tab.1.right" timestamp="1590164978574">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1590164978574" />
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1590832839674">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1590832839674" />
+    <state x="550" y="170" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1594744262292">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="550" y="170" width="325" height="462" key="refactoring.ChangeSignatureDialog/70.27.1296.741@70.27.1296.741" timestamp="1594744262292" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nipy$a.coverage" NAME="a Coverage Results" MODIFIED="1590165010821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
