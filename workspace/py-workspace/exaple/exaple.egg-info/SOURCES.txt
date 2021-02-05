@@ -1,8 +1,0 @@
-README.rst
-pyproject.toml
-setup.py
-exaple/__init__.py
-exaple.egg-info/PKG-INFO
-exaple.egg-info/SOURCES.txt
-exaple.egg-info/dependency_links.txt
-exaple.egg-info/top_level.txt
